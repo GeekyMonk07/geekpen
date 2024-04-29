@@ -1,4 +1,4 @@
-In the project directory, you can run:
+![Screenshot (70)](https://github.com/GeekyMonk07/geekpen/assets/85828597/44cdd7ac-d2dd-4eea-9c52-b7dbc9c84ecf)
 
 ### `npm start`
 
